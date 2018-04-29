@@ -11,6 +11,9 @@ Notice: if you are on windows os run using git bash
 
 finally run following command in lazy-ci folder
 
-sh main.sh
+```
+$ sh main.sh
 
-Then You are ready to go ...
+```
+
+
